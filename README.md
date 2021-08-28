@@ -5,12 +5,19 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 Soy estudiante del Instituto Tecnologico de Tijuana
+- 👯 Soy introvertida y siempre uso audifonos
+- 🤔 Soy extremadamente sincera que duele.... lo siento
+- 😄 Me gusta dibujar y leer
+- ⚡ Fun fact: tengo un tic de concentracion que parece que masco goma
 -->
+
+
+|    Lunes      |     Martes    |   Miercoles   |     Jueves    |     Viernes   |
+|---------------|---------------|---------------|---------------|---------------|
+| Investigacion | Investigacion | Investigacion | Investigacion |               |
+|   Interfaz    |   Interfaz    |   Interfaz    |   Interfaz    |               |
+|    Redes      |    Redes      |    Redes      |    Redes      |    Redes      |
+|   Sistemas    |   Sistemas    |   Sistemas    |   Sistemas    |               |
+|   Automatas   |   Automatas   |   Automatas   |   Automatas   |   Automatas   |
+
