@@ -15,9 +15,11 @@ Here are some ideas to get you started:
 
 |    Lunes      |     Martes    |   Miercoles   |     Jueves    |     Viernes   |
 |---------------|---------------|---------------|---------------|---------------|
-| Investigacion | Investigacion | Investigacion | Investigacion |               |
-|   Interfaz    |   Interfaz    |   Interfaz    |   Interfaz    |               |
-|    Redes      |    Redes      |    Redes      |    Redes      |    Redes      |
-|   Sistemas    |   Sistemas    |   Sistemas    |   Sistemas    |               |
-|   Automatas   |   Automatas   |   Automatas   |   Automatas   |   Automatas   |
+|               |               |               |               |               |
+|               |               |               |               |               |
+|               |               |               |               |               |
+|               |               |               |               |               |
+|               |               |               |               |               |
+|               |               |               |               |               |
+|               |               |               |               |               |
 
