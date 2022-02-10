@@ -11,13 +11,13 @@
 
 
 
-|    Lunes      |     Martes    |   Miercoles   |     Jueves    |     Viernes   |
-|---------------|---------------|---------------|---------------|---------------|
-|               |               |               |               |               |
-|               |               |               |               |               |
-|               |               |               |               |               |
-|               |               |               |               |               |
-|               |               |               |               |               |
-|               |               |               |               |               |
-|               |               |               |               |               |
+|   Lunes  |  Martes  | Miercoles |  Jueves  |  Viernes |
+|:--------:|:--------:|:---------:|:--------:|:--------:|
+|  Calculo |  Calculo |  Calculo  |  Calculo |  Calculo |
+|  Metodos |  Metodos |  Metodos  |  Metodos |  Metodos |
+|    IO    |    IO    |     IO    |    IO    |    IO    |
+|  Logica  |  Logica  |   Logica  |  Logica  |  Logica  |
+| Interfaz | Interfaz |  Interfaz | Interfaz | Interfaz |
+|   Redes  |   Redes  |   Redes   |   Redes  |   Redes  |
+| Software | Software | Software  | Software | Software |
 
