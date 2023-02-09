@@ -1,3 +1,4 @@
+![](https://drive.google.com/file/d/1tkjhKMR4ASTSiv1P2Jvgpc6cQK6UBxWg/view)
 ### Hi there 👋
 
 - 🔭 Soy estudiante del Instituto Tecnologico de Tijuana
@@ -5,16 +6,4 @@
 - 🤔 Soy extremadamente sincera que duele.... lo siento
 - 😄 Me gusta dibujar y leer
 - ⚡ Fun fact: tengo un tic de concentracion que parece que masco goma
-
-
-
-|   Lunes  |  Martes  | Miercoles |  Jueves  |  Viernes |
-|:--------:|:--------:|:---------:|:--------:|:--------:|
-|  Calculo |  Calculo |  Calculo  |  Calculo |  Calculo |
-|  Metodos |  Metodos |  Metodos  |  Metodos |  Metodos |
-|    IO    |    IO    |     IO    |    IO    |    IO    |
-|  Logica  |  Logica  |   Logica  |  Logica  |  Logica  |
-| Interfaz | Interfaz |  Interfaz | Interfaz | Interfaz |
-|   Redes  |   Redes  |   Redes   |   Redes  |   Redes  |
-| Software | Software | Software  | Software | Software |
 
