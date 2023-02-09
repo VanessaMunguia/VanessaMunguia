@@ -1,4 +1,4 @@
-![](https://www.pinterest.com/pin/670754938230212884/)
+![](<iframe src="https://assets.pinterest.com/ext/embed.html?id=670754938230212884" height="215" width="345" frameborder="0" scrolling="no" ></iframe>)
 ### Hi there 👋
 
 - 🔭 Soy estudiante del Instituto Tecnologico de Tijuana
