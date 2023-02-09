@@ -1,4 +1,4 @@
-![](https://drive.google.com/file/d/1tkjhKMR4ASTSiv1P2Jvgpc6cQK6UBxWg/view)
+![](https://www.pinterest.com/pin/670754938230212884/)
 ### Hi there 👋
 
 - 🔭 Soy estudiante del Instituto Tecnologico de Tijuana
